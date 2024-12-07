@@ -30,7 +30,10 @@ main button{
 main button:active{
   background-color: black;
   color: white;
+  outline: none;
 }
+main button:focus{
+  outline: none;
 main p{
   margin-top: 20px;
   font-size: 50px;
