@@ -34,7 +34,7 @@ main button{
 }
 main button:active{
   background-color: #ffc0cb;
-  color: white;
+  color: #000000;
 }
 main p{
   margin-top: 20px;
