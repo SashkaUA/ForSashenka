@@ -3,6 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+button,
+button:active,
+button:active{
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
 body{
   background: linear-gradient(90deg,#c842af 0%, #d0b819 100%);
   color: black;
@@ -25,16 +31,11 @@ main button{
   background-color: red;
   font-size: 50px;
   cursor: pointer;
-  outline: none;
-  -webkit-tap-highlight-color: transparent;
 }
 main button:active{
   background-color: black;
   color: white;
-  outline: none;
 }
-main button:focus{
-  outline: none;
 main p{
   margin-top: 20px;
   font-size: 50px;
