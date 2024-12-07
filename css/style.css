@@ -27,14 +27,14 @@ main button{
   cursor: pointer;
 }
 main button:active{
-  background-color: black;
-  color: white;
+  background-color: #ffc0cb;
+  color: #000000;
 }
 main p{
   margin-top: 20px;
   font-size: 50px;
   border: 2px solid linear-gradient(90deg,#d0b819 0%, #c842af 100%);
-  border-radius: 5px;
+  border-radius: 10px;
 }
 footer{
   text-align: center;
