@@ -33,7 +33,7 @@ main button{
   cursor: pointer;
 }
 main button:active{
-  background-color: black;
+  background-color: #ffc0cb;
   color: white;
 }
 main p{
