@@ -33,7 +33,7 @@ main button:active{
 main p{
   margin-top: 20px;
   font-size: 50px;
-  border: 2px solid #c842af;
+  border: 2px solid linear-gradient(90deg,#d0b819 0%, #c842af 100%);
   border-radius: 5px;
 }
 footer{
