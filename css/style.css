@@ -33,7 +33,7 @@ main button:active{
 main p{
   margin-top: 20px;
   font-size: 50px;
-  border: 1px solid #c842af;
+  border: 2px solid #c842af;
   border-radius: 5px;
 }
 footer{
