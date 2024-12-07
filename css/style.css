@@ -3,6 +3,12 @@
   padding: 0;
   box-sizing: border-box;
 }
+button,
+button:active,
+button:focus{
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
 body{
   background: linear-gradient(90deg,#c842af 0%, #d0b819 100%);
   color: black;
