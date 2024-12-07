@@ -25,7 +25,6 @@ main button{
   background-color: red;
   font-size: 50px;
   cursor: pointer;
-  transition: 100ms;
 }
 main button:active{
   background-color: black;
